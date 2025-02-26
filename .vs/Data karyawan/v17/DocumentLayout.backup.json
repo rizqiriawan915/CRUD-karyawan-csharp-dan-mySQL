@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rizqi\\Documents\\C# Centra\\Data karyawan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2638CD-1A15-4981-BFBE-38F447D9F32E}|Data karyawan\\Data karyawan.csproj|C:\\Users\\Rizqi\\Documents\\C# Centra\\Data karyawan\\data karyawan\\datakaryawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2638CD-1A15-4981-BFBE-38F447D9F32E}|Data karyawan\\Data karyawan.csproj|solutionrelative:data karyawan\\datakaryawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2638CD-1A15-4981-BFBE-38F447D9F32E}|Data karyawan\\Data karyawan.csproj|c:\\users\\rizqi\\documents\\c# centra\\data karyawan\\data karyawan\\datakaryawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B2638CD-1A15-4981-BFBE-38F447D9F32E}|Data karyawan\\Data karyawan.csproj|solutionrelative:data karyawan\\datakaryawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataKaryawan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rizqi\\Documents\\C# Centra\\Data karyawan\\Data karyawan\\DataKaryawan.cs",
+              "RelativeDocumentMoniker": "Data karyawan\\DataKaryawan.cs",
+              "ToolTip": "C:\\Users\\Rizqi\\Documents\\C# Centra\\Data karyawan\\Data karyawan\\DataKaryawan.cs [Design]",
+              "RelativeToolTip": "Data karyawan\\DataKaryawan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:59:44.071Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataKaryawan.cs",
+              "DocumentMoniker": "C:\\Users\\Rizqi\\Documents\\C# Centra\\Data karyawan\\Data karyawan\\DataKaryawan.cs",
+              "RelativeDocumentMoniker": "Data karyawan\\DataKaryawan.cs",
+              "ToolTip": "C:\\Users\\Rizqi\\Documents\\C# Centra\\Data karyawan\\Data karyawan\\DataKaryawan.cs",
+              "RelativeToolTip": "Data karyawan\\DataKaryawan.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwL8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:36:01.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
